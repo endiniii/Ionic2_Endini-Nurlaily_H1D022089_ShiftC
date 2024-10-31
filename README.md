@@ -4,4 +4,4 @@
 ![Tampilan login](https://raw.githubusercontent.com/endiniii/Ionic2_Endini-Nurlaily_H1D022089_ShiftC/main/login.png)
 
 # 2. Gambar tampilan Logout
-![Tampilan logout](https://raw.githubusercontent.com/endiniii/Ionic2_Endini-Nurlaily_H1D022089_ShiftC/main/logout.png)
+![Tampilan logout](https://raw.githubusercontent.com/endiniii/Ionic2_Endini-Nurlaily_H1D022089_ShiftC/main/logout.png) 
